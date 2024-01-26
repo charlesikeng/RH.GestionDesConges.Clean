@@ -1,0 +1,17 @@
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\bin\Debug\net8.0\RH.GestionDesConges.Infrastrcture.deps.json
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\bin\Debug\net8.0\RH.GestionDesConges.Infrastrcture.dll
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\bin\Debug\net8.0\RH.GestionDesConges.Infrastrcture.pdb
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\obj\Debug\net8.0\RH.GestionDesConges.Infrastrcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\obj\Debug\net8.0\RH.GestionDesConges.Infrastrcture.AssemblyInfoInputs.cache
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\obj\Debug\net8.0\RH.GestionDesConges.Infrastrcture.AssemblyInfo.cs
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\obj\Debug\net8.0\RH.GestionDesConges.Infrastrcture.csproj.CoreCompileInputs.cache
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\obj\Debug\net8.0\RH.GestionDesConges.Infrastrcture.dll
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\obj\Debug\net8.0\refint\RH.GestionDesConges.Infrastrcture.dll
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\obj\Debug\net8.0\RH.GestionDesConges.Infrastrcture.pdb
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\obj\Debug\net8.0\ref\RH.GestionDesConges.Infrastrcture.dll
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\bin\Debug\net8.0\RH.GestionDesConges.Application.dll
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\bin\Debug\net8.0\RH.GestionDesConges.Application.pdb
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\obj\Debug\net8.0\RH.GestionDesConges.Infrastrcture.csproj.AssemblyReference.cache
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\obj\Debug\net8.0\RH.GestionDesConges.Infrastrcture.csproj.CopyComplete
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\bin\Debug\net8.0\RH.GestionDesConges.Domain.dll
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Infrastrcture\bin\Debug\net8.0\RH.GestionDesConges.Domain.pdb

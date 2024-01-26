@@ -1,0 +1,11 @@
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Domain\bin\Debug\net8.0\RH.GestionDesConges.Domain.deps.json
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Domain\bin\Debug\net8.0\RH.GestionDesConges.Domain.dll
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Domain\bin\Debug\net8.0\RH.GestionDesConges.Domain.pdb
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Domain\obj\Debug\net8.0\RH.GestionDesConges.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Domain\obj\Debug\net8.0\RH.GestionDesConges.Domain.AssemblyInfoInputs.cache
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Domain\obj\Debug\net8.0\RH.GestionDesConges.Domain.AssemblyInfo.cs
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Domain\obj\Debug\net8.0\RH.GestionDesConges.Domain.csproj.CoreCompileInputs.cache
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Domain\obj\Debug\net8.0\RH.GestionDesConges.Domain.dll
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Domain\obj\Debug\net8.0\refint\RH.GestionDesConges.Domain.dll
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Domain\obj\Debug\net8.0\RH.GestionDesConges.Domain.pdb
+C:\Sources\RH.GestionDesConges.Clean\RH.GestionDesConges.Domain\obj\Debug\net8.0\ref\RH.GestionDesConges.Domain.dll

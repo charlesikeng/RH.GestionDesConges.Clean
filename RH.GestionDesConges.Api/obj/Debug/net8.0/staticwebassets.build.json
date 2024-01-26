@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gV1yb0FD5XZS9iaGiwuL6gL5H1nyghr0TpHipW3V5xA=",
+  "Source": "RH.GestionDesConges.Api",
+  "BasePath": "_content/RH.GestionDesConges.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RH.GestionDesConges.Api.props" />
+</Project>
